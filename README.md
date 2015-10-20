@@ -10,6 +10,14 @@
 |[知乎](http://www.zhihu.com)|Web & App|
 |[微博](http://weibo.com)|Web & Mobile & App|
 
+## Animes
+
+|网站|平台|
+|---|---|
+|[哔哩哔哩](http://bilibili.com)|Web & App|
+|[嘀哩嘀哩](http://dilidili.com)|Web|
+|[布丁动画](http://www.pudding.cc/app/)|App|
+
 ## Inspration
 
 |网站|平台|
